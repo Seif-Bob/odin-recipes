@@ -1,4 +1,5 @@
 Description
+
 This project is part of the The Odin Project's Foundations Course. It is a basic recipe website built using HTML only. The primary goal of this project is to practice and demonstrate fundamental web development skills before moving on to CSS and more complex layouts.
 
 Skills Demonstrated
