@@ -4,11 +4,11 @@ This project is part of the The Odin Project's Foundations Course. It is a basic
 Skills Demonstrated
 By completing this project, I have practiced the following:
 
-HTML Structure: Setting up a standard boilerplate with <!DOCTYPE html>, <html>, <head>, and <body>.
+HTML Structure: Setting up a standard boilerplate.
 
-Text Formatting: Using headings (<h1>–<h3>), paragraphs (<p>), and emphasis tags.
+Text Formatting: Using headings, paragraphs, and emphasis tags.
 
-Lists: Organizing content using both ordered (<ol>) and unordered (<ul>) lists.
+Lists: Organizing content using both ordered and unordered lists.
 
 Links & Navigation: Implementing internal links to navigate between multiple HTML pages.
 
